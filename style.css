@@ -1,0 +1,42 @@
+.icon{
+  
+    margin-left: 1300px;
+    position: absolute;
+    font-family:'Courier New', Courier, monospace;
+    Color:blue;
+}
+
+.titreselector{
+    width:10%;
+    padding-top:10px; 
+    padding-bottom:10px; 
+    text-align: Center;
+    background:black;
+}
+
+.titreCastellane{
+    font-family: cursive;
+    text-align: Center;
+}
+
+
+.formulaire{
+    width:100%;
+    padding-top:10px; 
+    padding-bottom:10px; 
+    background:black;
+    text-align: Center;
+    font-family: Verdana;
+}
+
+.imageplage{
+   height: 450px;
+   width: 100%;
+}
+
+
+i{
+    margin-right: 10px;
+    color:black;
+}
+
